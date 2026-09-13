@@ -29,7 +29,7 @@ Full-Stack Developer (React/Java-Spring) | AI/ML Undergraduate @ TIET
 |---|---|---|
 | [**Yoga EEG Deep Learning**](https://github.com/kunalthakur07/Yoga-EEG-Deep-learning) | Deep learning pipeline analyzing EEG signals to quantify yoga-induced cognitive changes, with explainable AI using SHAP. | Python · TensorFlow · MNE · SciPy · SHAP · Streamlit |
 | [**Traffic Flow Prediction**](https://github.com/kunalthakur07/Traffic-Flow-Prediction) | LSTM-based traffic speed forecasting across 207 road sensors using the METR-LA dataset, with a live prediction dashboard. | Python · PyTorch · LSTM · Pandas · NumPy · Streamlit |
-| [**AI Resume Screener**](https://github.com/kunalthakur07/AI-Resume-Screener) | NLP-based resume screening system that ranks resumes against job descriptions using TF-IDF, cosine similarity and clustering. | Python · NLP · TF-IDF · K-Means · PCA · Gradio |
+| [**AI Resume Screener**](https://github.com/kunalthakur07/AI-Resume-Screener) | NLP-based resume screening system ranking 2,484 resumes across 24 job categories using TF-IDF, cosine similarity and clustering. | Python · NLP · TF-IDF · K-Means · PCA · Gradio |
 
 ---
 
@@ -148,14 +148,6 @@ Developed and optimized full-stack **Agentic AI applications**, integrating LLMs
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 </p>
-
----
-
-## 📚 Currently Learning
-
-**Java Spring Framework · Spring Boot · Spring AI — Telusko**
-
-Also exploring **System Design, Kafka & AWS**.
 
 ---
 
