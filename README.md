@@ -1,209 +1,124 @@
 <h1 align="center">Hi 👋, I'm Kunal Thakur</h1>
 
 <h3 align="center">
-AI/ML Undergraduate @ TIET • Full-Stack Developer • Java & Spring Boot
+Full-Stack Developer (React/Java-Spring) | AI/ML Undergraduate @ TIET
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kunalthakur07">
-    <img src="https://komarev.com/ghpvc/?username=kunalthakur07&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/kunalthakur7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:kunalthakur.7kt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
+  <a href="https://github.com/kunalthakur07">GitHub</a> •
+  <a href="https://linkedin.com/in/kunalthakur7">LinkedIn</a> •
+  <a href="mailto:kunalthakur.7kt@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student at Thapar Institute of Engineering and Technology**, passionate about building scalable backend systems and intelligent applications.
-
-- 🔭 Currently building **VendorFlow**, a multi-vendor local commerce platform
-- 🌱 Currently learning **System Design, Kafka & AWS**
-- 💻 Focused on **Java, Spring Boot, REST APIs & Backend Development**
-- 🤖 Exploring **AI/ML, NLP & Agentic AI**
+- 🔭 Currently building **VendorFlow**, a multi-vendor commerce platform
+- 🌱 Learning **System Design, Kafka & AWS**
+- 💻 Interested in **Java, Spring Boot, Backend Development & AI/ML**
 - 🧩 Solved **100+ LeetCode problems**
-- 🏆 **Smart India Hackathon 2025 – Internal Selection**
-- 💼 Previously worked as an **AI Intern at J&R Autonetics**
-- 📍 Patiala, Punjab, India
+- 🏆 **Smart India Hackathon 2025 — Internal Selection**  
+  Selected from 250 teams at TIET for the Software Edition.
+- 💼 **AI Intern @ J&R Autonetics** — Jun 2026 – Jul 2026
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🛒 VendorFlow — Multi-Vendor Local Commerce Platform
+**[VendorFlow](https://github.com/kunalthakur07/VenderFlow-Project)**  
+Multi-vendor local commerce platform built with **Java, Spring Boot, PostgreSQL, Redis & Docker**.
 
-**Java • Spring Boot • Spring Security • PostgreSQL • Redis • Docker**
+**MediCompare**  
+Hospital service price & availability comparison platform using **Spring Boot, Spring Security & PostgreSQL**.
 
-A full-stack SaaS platform connecting local grocery/pharmacy vendors with customers.
-
-**Highlights**
-- 👥 Designed around **4 user roles** — Customer, Vendor, Delivery Partner & Admin
-- 🔐 Implemented authentication and **role-based access control** using Spring Security
-- 🔄 Built REST APIs for vendor onboarding, orders and inventory
-- 📍 Developed vendor-routing logic based on **distance, stock & reliability**
-- ⚡ Used **Redis caching** for high-traffic reads
-- 🧩 Applied Spring IoC/Dependency Injection and AOP for modular architecture
-- 🐳 Containerized the application using Docker
-
-🔗 **[View Project](https://github.com/kunalthakur07/VenderFlow-Project)**
-
-
-### 🏥 MediCompare — Hospital Service Comparison Platform
-
-**Java • Spring Boot • Spring Security • PostgreSQL • Docker**
-
-A platform that allows users to compare diagnostic services such as MRI and X-Ray across hospitals.
-
-**Highlights**
-- 🔎 Ranked hospitals using **price, rating & distance**
-- 🔒 Implemented role-based access for Hospital Admins and Patients
-- ⚡ Designed a concurrency-safe booking system
-- 🛡️ Used **pessimistic locking** with Spring Data JPA to prevent double bookings
-- 🔌 Built REST APIs for hospital service, pricing and slot management
-
-
-### 🤖 AI-Powered Resume Screening System
-
-**Python • NLP • TF-IDF • K-Means • PCA • Gradio**
-
-An NLP-based resume screening system designed to help recruiters identify relevant candidates.
-
-**Highlights**
-- 📄 Processed **2,484 resumes across 24 job categories**
-- 🧠 Used **TF-IDF & cosine similarity** to rank resumes against job descriptions
-- 🔬 Applied **K-Means clustering** to identify 5 skill-based groups
-- 📊 Used PCA to visualize high-dimensional TF-IDF vectors
-- 🌐 Built an interactive **Gradio dashboard**
+**AI Resume Screening System**  
+NLP-based resume ranking system using **Python, TF-IDF, K-Means, PCA & Gradio**.
 
 ---
 
-# 🏆 Achievements
+### 🏆 Achievements
 
-### 🥇 Smart India Hackathon 2025 — Internal Selection
-
-Selected from **250 teams at Thapar** for the **SIH Software Edition**.
-
-Built a **WebGIS platform for the Forest Rights Act (FRA)** use case featuring:
-
-- 🗺️ Interactive geospatial map layers
-- 📍 Geospatial visualization
-- 🤖 AI-based land-asset mapping
-- 📊 Decision Support System (DSS)
-- 🗃️ Digitization of FRA land records
+- **Smart India Hackathon 2025 — Internal Selection**
+- **100+ LeetCode Problems Solved**
 
 ---
 
-### 💻 100+ LeetCode Problems
+### 📚 Currently Learning
 
-Solved **100+ Data Structures & Algorithms problems** on LeetCode, strengthening problem-solving and competitive programming fundamentals.
+**Java Spring Framework, Spring Boot & Spring AI — Telusko**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?logo=leetcode)](https://leetcode.com/)
-
----
-
-# 💼 Experience
-
-### AI Intern — J&R Autonetics
-**June 2026 – July 2026**
-
-- Developed and optimized full-stack **Agentic AI web applications**
-- Integrated **Large Language Models (LLMs)** into product workflows
-- Worked across frontend and backend architecture
-- Performed manual and unit testing before releases
-- Collaborated with product and cross-functional teams
-- Identified and fixed edge-case bugs through code reviews
+Currently deepening my knowledge of the Spring ecosystem, backend development and Spring AI.
 
 ---
 
-# 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql" />
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Databases & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-**Also familiar with:**  
-NLP • TF-IDF • K-Means • PCA • Pandas • NumPy • Scikit-learn • REST APIs •
-Microservices • Spring Security • Spring Data JPA • JDBC • AOP
-
----
-
-# 📚 Currently Learning
-
-### ☕ Java + Spring Ecosystem
-
-Currently deepening my backend development skills through:
-
-**Java → Spring Core → Spring MVC → Spring Boot → Spring Security → REST APIs → Spring Data JPA → Microservices**
-
-Also exploring:
-
-- 🏗️ System Design
-- 📨 Apache Kafka
-- ☁️ AWS / Cloud
-- 🔐 Backend Security
-- ⚙️ Distributed Systems
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalthakur07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalthakur07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalthakur07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/kunalthakur7">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Thakur-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:kunalthakur.7kt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kunalthakur.7kt%40gmail.com-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/kunalthakur07">
-    <img src="https://img.shields.io/badge/GitHub-kunalthakur07-black?logo=github" />
-  </a>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mathworks.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://redis.io" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+<a href="https://spring.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building scalable systems. Exploring AI. Solving problems.</i>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalthakur07&show_icons=true&locale=en&layout=compact" />
 </p>
